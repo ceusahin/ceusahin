@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceusahin
-- 👀 I’m interested in .NET
-- 🌱 I’m currently learning .NET
+- 👀 I’m interested in
+- 🌱 I’m currently learning
 - 📫 How to reach me hakonsahin@gmail.com
 
 <!---
