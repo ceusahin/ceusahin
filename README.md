@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ceusahin
-- 👀 I’m interested in Backend Developing
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Java, C#, .NET Core
 - 📫 How to reach me hakonsahin@gmail.com
 
