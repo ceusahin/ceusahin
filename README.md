@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceusahin
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Java, C#, .NET Core
+- 🌱 I’m currently learning JavaScript, C#, .NET Core
 - 📫 How to reach me hakonsahin@gmail.com
 
 <!---
